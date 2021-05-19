@@ -34,6 +34,7 @@
 
 ## ReactJS
 
+[ReactJS + TypeScript](https://www.youtube.com/watch?v=00AkMN9IAAY&list=PLYSZyzpwBEWSe71-aLlq71B2LPZzTNO8a)<br/>
 [Guia Rocketseat](https://www.youtube.com/playlist?list=PLWXw8Gu52TRK1W0emFvUl3ozgV2JW3_8p)<br/>
 [Guia Oficial](https://pt-br.reactjs.org/tutorial/tutorial.html)<br/>
 [Curso completo](https://www.youtube.com/watch?v=C8M94QLJy0o&list=PLXik_5Br-zO9YVs9bxi7zoQlKq59VPTX1)
