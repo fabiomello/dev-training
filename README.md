@@ -1,3 +1,4 @@
+# Materiais
 ## Git
 
 [Guia Rocketseat](https://app.rocketseat.com.br/node/o-guia-estelar-de-git)<br/>
@@ -48,3 +49,34 @@
 ## PostgreSQL
 
 [Tutorial](https://www.postgresqltutorial.com/)
+
+# Trilha do dev
+
+## Git
+[Iniciando com Git](https://www.youtube.com/watch?v=MW7hrQe6aYo&list=PL85ITvJ7FLoh-1TFRDe7bHzAWY4DlIRtk)<br/>
+[Guia RocketSeat](https://app.rocketseat.com.br/node/o-guia-estelar-de-git)
+
+## HTML + CSS + JS
+[Guia RocketSeat HTML](https://app.rocketseat.com.br/node/o-guia-estelar-de-html)<br/>
+[Guia RocketSeat CSS](https://app.rocketseat.com.br/node/o-guia-estelar-de-css)<br/>
+[Guia RocketSeat Javascript](https://app.rocketseat.com.br/node/o-guia-estelar-de-java-script)
+
+## Consumindo APIs com INSOMNIA
+[Canal RocketSeat](https://www.youtube.com/watch?v=3tB0uDliS6Y)
+
+## Criando APIs com Ruby on Rails
+[Resumo](https://www.youtube.com/watch?v=QojnRc7SS9o)<br/>
+[Completo](https://www.youtube.com/watch?v=M9-em3FYMNU&list=PLjQo0sojbbxWXYhditpqZlN4oLJE4hLjP)<br/>
+[Mini curso Rspec](https://www.youtube.com/watch?v=eb2VaG9bfSE&list=PLdDT8if5attGc3fgFsFe5cvV9MwlVFNLW)
+
+## ReactJS 
+[Básico](https://www.youtube.com/playlist?list=PLWXw8Gu52TRK1W0emFvUl3ozgV2JW3_8p)<br/>
+[ReactJS+TypeScript+Hooks](https://www.youtube.com/watch?v=00AkMN9IAAY&list=PLYSZyzpwBEWSe71-aLlq71B2LPZzTNO8a)
+
+## Atividades
+[Clone Pipefy](https://www.youtube.com/watch?v=awRtgpRsdTQ)<br/>
+[Clone Tesla](https://www.youtube.com/watch?v=Mf4Se4ZGcG8)<br/>
+[Clone ML](https://www.youtube.com/watch?v=APs_xQ2hUOE)<br/>
+[Clone LinkedIn](https://www.youtube.com/watch?v=-ZV-_7vNRGw)<br/>
+[Clone Twitter](https://www.youtube.com/watch?v=K-8z_4xvT3o)<br/>
+[Clone Discord](https://www.youtube.com/watch?v=x4FdZd2-_uU)
